@@ -1,0 +1,8 @@
+﻿"sala" , x=1 , y=0.25 
+"cucina" , x=2 , y=0.25
+"magazzino" , x=3 , y=0.25
+"camera" , x=3 , y=3
+"stanza" , x=3 , y=-3
+/
+
+
